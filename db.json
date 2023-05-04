@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John1234",
+      "email": "john@gmail.com",
+      "password": "John1111++"
+    },
+    {
+      "id": 2,
+      "name": "Pete1234",
+      "email": "pete@gmail.com",
+      "password": "pEte2222--"
+    },
+    {
+      "id": 3,
+      "name": "Mary1234",
+      "email": "mary@gmail.com",
+      "password": "maRy3333**"
+    },
+    {
+      "id": 4,
+      "name": "Alex1234",
+      "email": "alex@gmail.com",
+      "password": "aleX4444//"
+    }
+  ]
+}
+
